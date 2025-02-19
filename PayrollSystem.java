@@ -7,3 +7,5 @@ public class PayrollSystem {
         System.out.println(employee2.toString());
     }
 }
+
+// Lab 3 Complete, both classes are in the same file
